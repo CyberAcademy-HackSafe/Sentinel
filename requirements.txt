@@ -1,0 +1,5 @@
+aiohttp
+python-nmap
+requests
+tqdm
+urllib3
